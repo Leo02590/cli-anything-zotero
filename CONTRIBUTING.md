@@ -28,3 +28,4 @@ Notes and usage details for cli-anything-zotero.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
